@@ -5,6 +5,9 @@ import warnings
 from datetime import datetime
 
 from crew import HomeMgt
+from dotenv import load_dotenv
+
+load_dotenv()
 
 warnings.filterwarnings("ignore", category=SyntaxWarning, module="pysbd")
 
@@ -24,5 +27,5 @@ def run():
         raise Exception(f"An error occurred while running the crew: {e}")
 
 
-if __name__ = '__main__':
+if __name__ == '__main__':
     run()

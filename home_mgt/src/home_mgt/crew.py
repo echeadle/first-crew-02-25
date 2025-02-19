@@ -11,7 +11,7 @@ class HomeMgt():
 	@agent
 	def list_manager(self) -> Agent:
 		return Agent(
-			config=self.agents_config['home_list_manager'],
+			config=self.agents_config['list_manager'],
 			verbose=True
 		)
 
@@ -21,12 +21,6 @@ class HomeMgt():
 			config=self.tasks_config['generate_home_mgt_lists_task'],
 		)
 
-	@task
-	def reporting_task(self) -> Task:
-		return Task(
-			config=self.tasks_config['reporting_task'],
-			output_file='report.md'
-		)
 
 	@crew
 	def crew(self) -> Crew:
