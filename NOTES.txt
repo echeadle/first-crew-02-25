@@ -1,0 +1,10 @@
+1. Feb 19 2025.
+    a. Created the repository.
+    b. created crewd and decided to use conda for my first effort.
+    c. Will port to poetry after learning more about crewai.
+
+
+2. Design
+    a. Will be a home management system.
+    b. Will have multiple crews, but start out with an expert organizer/ list maker.
+    c. A second crew will be created to manage and maintain maintence guids and manuals
