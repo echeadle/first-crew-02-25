@@ -2,54 +2,69 @@
 # Home Management Tasks
 
 ## Weekly Tasks
-### Cleaning (Urgent and Important)
-- Vacuum and mop all floors
-- Dust surfaces in living areas and bedrooms
-- Clean bathrooms (toilets, sinks, showers)
-- Wipe down kitchen countertops and appliances
-- Empty trash bins
+1. **Cleaning:**
+   - Dust surfaces (high traffic areas first)
+   - Vacuum and mop floors
+   - Clean bathrooms (toilets, sinks, mirrors)
+   - Change bed linens
+   - Wipe down kitchen counters and appliances
+   - Empty trash bins throughout the house
 
-### Maintenance (Important but Not Urgent)
-- Check and replace air filters (if necessary)
-- Water indoor plants
-- Test smoke detectors and replace batteries if needed
+2. **Maintenance:**
+   - Check smoke detectors and change batteries if necessary
+   - Inspect air filters and replace if needed
+   - Water indoor plants
 
-### Family Activities (Urgent and Important)
-- Family game night every Friday 
-- Meal prep for the week every Sunday
-- Outdoor activities like park visit or biking every Saturday
-
----
+3. **Family Activities:**
+   - Family game night (every Friday)
+   - Grocery shopping (Saturdays)
+   - Meal prepping (Sundays)
 
 ## Monthly Tasks
-### Cleaning (Important)
-- Deep clean carpets and rugs
-- Clean windows and mirrors
-- Organize pantry and fridge
+1. **Cleaning:**
+   - Deep clean carpets and upholstery
+   - Clean windows inside and out
+   - Dust ceiling fans and light fixtures
+   - Organize and declutter one area (closets, garage, etc.)
+   - Clean out refrigerator and pantry
 
-### Maintenance (Important)
-- Inspect fire alarms and CO detectors
-- Service HVAC system / Have seasonal maintenance done
-- Check for leaks in plumbing (under sinks, etc.)
+2. **Maintenance:**
+   - Service HVAC system
+   - Test functionality of home security system
+   - Check and clean gutters
+   - Inspect plumbing for leaks
 
-### Family Activities (Not Urgent but Important)
-- Family movie night once a month
-- Plan a family outing or day trip
-
----
+3. **Family Activities:**
+   - Plan a family outing (hiking, picnic, etc.)
+   - Attend community events or local fairs
+   - Review and update family calendar for upcoming month
 
 ## Seasonal Tasks
-### Cleaning (Important)
-- Change out seasonal clothing in closets
-- Clean or organize garage/shed
+1. **Spring:**
+   - Open the deck by removing all covers
+   - Clean outdoor furniture
+   - Start a garden or plant seasonal flowers
+   - Check and repair any outdoor equipment (lawnmowers, grills)
 
-### Maintenance (Urgent for the season)
-- Winter: Insulate pipes and check heating system
-- Spring: Test and clean outdoor sprinklers
-- Summer: Clean gutters and downspouts
-- Fall: Check windows for drafts and inspect roof
+2. **Summer:**
+   - Deep clean air conditioning units
+   - Install window screens
+   - Inspect and clean pool area (if applicable)
+   - Organize garage for summer equipment
 
-### Family Activities (Important)
-- Organize a seasonal family event (e.g., BBQ in summer, craft night in winter)
-- Plan a family vacation or staycation once a season
+3. **Fall:**
+   - Inspect roof and shingles for any damage
+   - Prepare garden for winter (plant bulbs, cover tender plants)
+   - Store outdoor furniture
+   - Clean and inspect heating system
+
+4. **Winter:**
+   - Check weather stripping on windows and doors
+   - Ensure snow removal equipment is ready
+   - Prepare an emergency kit for winter storms
+   - Review home inventory for insurance updates  
+
+### Notes:
+- Review and adjust tasks seasonally, ensuring that no item goes unnoticed.
+- Prioritize tasks by urgency and importance as they arise.
 ```

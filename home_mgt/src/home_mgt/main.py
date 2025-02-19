@@ -17,8 +17,8 @@ def run():
     Run the crew.
     """
     inputs = {
-        'topic': 'Opening the deck by removing all covers',
-        'current_year': str(datetime.now().year)
+        'topic': 'In the Spring, Open the deck by removing all covers'
+
     }
     
     try:
