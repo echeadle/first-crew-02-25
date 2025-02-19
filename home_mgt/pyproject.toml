@@ -1,0 +1,23 @@
+[project]
+name = "home_mgt"
+version = "0.1.0"
+description = "home-mgt using crewAI"
+authors = [{ name = "Your Name", email = "you@example.com" }]
+requires-python = ">=3.10,<3.13"
+dependencies = [
+    "crewai[tools]>=0.102.0,<1.0.0"
+]
+
+[project.scripts]
+home_mgt = "home_mgt.main:run"
+run_crew = "home_mgt.main:run"
+train = "home_mgt.main:train"
+replay = "home_mgt.main:replay"
+test = "home_mgt.main:test"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.crewai]
+type = "crew"
