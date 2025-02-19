@@ -4,6 +4,7 @@ generate_home_mgt_lists_task:
     Ensure the lists include cleaning, maintenance, and recurring family activities.
     Categorize tasks based on urgency and importance.
   expected_output: >
-    A structured list of tasks grouped into weekly, monthly, and seasonal categories.
+     A markdown-formatted list of home tasks saved to `home_tasks.md`, with sections for weekly, monthly, and seasonal tasks.
   agent: list_manager
+  output_file: "home_tasks.md"
 
