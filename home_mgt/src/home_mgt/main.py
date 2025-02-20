@@ -3,7 +3,6 @@ import sys
 import warnings
 
 from datetime import datetime
-
 from crew import HomeMgt
 from dotenv import load_dotenv
 
@@ -16,13 +15,17 @@ def run():
     """
     Run the crew.
     """
-    inputs = {
-        'topic': 'In the Spring, Open the deck by removing all covers'
+    user_inputs = []  # Store all user inputs
+    while True:
+        user_input = input("You: ")
+        if user_input.lower() == "exit":
+            break
+        user_inputs.append(user_input)  # Store input
 
-    }
-    
+    combined_input = " ".join(user_inputs)  # Combine all inputs
+
     try:
-        HomeMgt().crew().kickoff(inputs=inputs)
+        HomeMgt().crew().kickoff(inputs={"user_input": combined_input})  # Properly pass user input
     except Exception as e:
         raise Exception(f"An error occurred while running the crew: {e}")
 

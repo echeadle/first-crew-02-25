@@ -1,9 +1,7 @@
 generate_home_mgt_lists_task:
   description: >
-    Create weekly, monthly, and seasonal home management lists.
-    Ensure the lists include cleaning, maintenance, and recurring family activities.
-    Categorize tasks based on urgency and importance.
-    Include any new tasks according to the {topic} input.
+    Help create a structured to-do lists based on user input: {user_input}
+    They can include sections for weekly, monthly, and seasonal tasks
   expected_output: >
      A markdown-formatted list of home tasks saved to `home_tasks.md`, with sections for weekly, monthly, and seasonal tasks.
   agent: list_manager

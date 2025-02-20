@@ -8,3 +8,12 @@
     a. Will be a home management system.
     b. Will have multiple crews, but start out with an expert organizer/ list maker.
     c. A second crew will be created to manage and maintain maintence guids and manuals
+
+3. Phase 1 Completed Feb 9 2025.
+    a. Agent creates a markdown file with a structured to-do list in markdown format.
+    
+4. Phase 2 
+    a. Agent will communicate using the command line to ask user for tasks.
+    b. Phase 2 complete but I asked the crew AI assistant what is prompt adhearence and it added a bunch of code to help the agent stay true to form.
+    c. Added Doucment folder. First entry is about prompt adbearnece.
+    
