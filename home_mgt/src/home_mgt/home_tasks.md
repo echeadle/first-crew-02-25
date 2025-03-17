@@ -1,20 +1,15 @@
 ```markdown
-# Home Management Tasks
+# Home Tasks
 
 ## Weekly Tasks
-- Uncover umbrellas 
-- Set up tables 
-- Fill the fountain with water 
+- [ ] Add water to fountain
 
 ## Monthly Tasks
-- Inspect and clean outdoor furniture 
-- Check water levels and cleanliness of the fountain 
-- Organize the storage area for umbrellas and tables 
+- [ ] Bring up tables from shed
+- [ ] Check tables to see if they need paint
 
 ## Seasonal Tasks
-- Store away umbrellas and tables before winter 
-- Prepare patio area for summer usage (including checking for wear on tables and umbrellas)
-- Deep clean the fountain and surrounding area at the start of spring 
-
+- [ ] (To be determined based on upcoming seasons)
 ```
-This structured to-do list will help ensure that tasks related to uncovering umbrellas, filling the fountain, and related maintenance are efficiently managed across different time frames.
+
+This structured list helps you manage your tasks efficiently by categorizing them by frequency, allowing for better planning and organization in home management.

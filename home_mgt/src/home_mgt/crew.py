@@ -64,12 +64,11 @@ class HomeMgt():
     @task
     def generate_home_mgt_lists_task(self) -> Task:
         return Task(
-            description="Help create a structured to-do list based on user input: {user_input}. "
+            description="Continue updating a structured to-do list based on user input: {user_input}. "
                         "The list should include sections for weekly, monthly, and seasonal tasks.",
-            expected_output="A markdown-formatted list of home tasks saved to `home_tasks.md`, "
+            expected_output="A markdown-formatted list of home tasks, "
                             "with sections for weekly, monthly, and seasonal tasks.",
             agent=self.list_manager(),
-            output_file="home_tasks.md"
         )
 
     @crew
